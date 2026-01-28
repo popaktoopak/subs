@@ -10,31 +10,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download and Clean Combine
+      # This is the part where we fetch your specific 30 links
+      - name: Download Sub1 to Sub30
         run: |
-          # 1. Create an empty file
           > combined.txt
-          
-          # 2. Loop through all 30 links
           for i in {1..30}
           do
-            # Fetch the file and force a new line after it
-            curl -sL "https://raw.githubusercontent.com" >> combined.txt
+            # THE FULL URL IS NOW HERE:
+            URL="https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Subscriptions/Sub$i.txt"
+            
+            echo "Downloading from $URL..."
+            curl -sL "$URL" >> combined.txt
             echo "" >> combined.txt
           done
 
-          # 3. CRITICAL: Remove empty lines and carriage returns (\r) 
-          # This ensures the format is perfectly clean for v2rayNG
+      - name: Clean Formatting
+        run: |
+          # Remove empty lines so v2rayNG doesn't get confused
           sed -i '/^[[:space:]]*$/d' combined.txt
           sed -i 's/\r//g' combined.txt
 
-      - name: Save to Repo
+      - name: Save combined.txt to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add combined.txt
-          git commit -m "Clean text update: $(date)" || exit 0
+          git commit -m "Update: Combined Sub1-Sub30" || exit 0
           git push
