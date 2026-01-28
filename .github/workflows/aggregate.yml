@@ -2,7 +2,7 @@ name: Gather My Text
 on:
   workflow_dispatch: 
   schedule:
-    - cron: '*/30 * * * *' # This triggers the robot every 30 minutes
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -13,29 +13,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download and Combine Subscriptions
+      - name: Download, Combine, and Encode
         run: |
-          # Create/Clear the file
-          > combined.txt
+          # 1. Create a temporary file for raw configs
+          > temp_raw.txt
           
-          # Loop through numbers 1 to 30
+          # 2. Loop through all 30 links and collect their content
           for i in {1..30}
           do
-            # Fetch content and append it to combined.txt
-            # Using -L to follow redirects and -s for silent mode
-            curl -sL "https://raw.githubusercontent.com" >> combined.txt
-            # Adds a new line between files to prevent merging lines
-            echo "" >> combined.txt
+            curl -sL "https://raw.githubusercontent.com" >> temp_raw.txt
+            echo "" >> temp_raw.txt
           done
-          
-          # Optional: Add a timestamp at the end so you know it worked
-          echo "# Last Updated: $(date)" >> combined.txt
+
+          # 3. Clean up (remove empty lines) and Base64 encode for v2rayNG
+          sed '/^$/d' temp_raw.txt | base64 -w 0 > combined.txt
 
       - name: Save to Repo
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add combined.txt
-          # Only commit if there are actually changes in the configs
-          git commit -m "Auto-update configs: $(date)" || exit 0
+          git commit -m "Updated v2rayNG sub: $(date)" || exit 0
           git push
