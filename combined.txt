@@ -112,6 +112,12 @@ vless://1aa0bce8-e697-4cc9-9ceb-a2cf4b07561a@hool.pollux.live:6064?security=none
 vless://8993a817-4aa2-4d44-a27d-1d5351569bac@194.50.169.169:55283?path=%2F&security=&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://8993a817-4aa2-4d44-a27d-1d5351569bac@194.50.169.169:55283?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://74ed1341-f0e7-4892-9188-19d0e83829ef@op-g1-detun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@kingmna.com:443?security=tls&type=xhttp&headerType=&path=%2F&host=kafie.mazraedaran-datel.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=kafie.mazraedaran-datel.ir&fp=chrome&alpn=h2#🔥Join+Telegram:@Farah_VPN🟣
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://c95852c8-8fd9-49ac-ab90-a1009acb94c7@ir1.reata1.ir:40001?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://87fab07d-c325-43e5-8873-6b886b71dc14@oPeN.ChATGPT.coM:2053?path=/&security=tls&alpn=h2&encryption=none&host=channel-imtproto.arezoni1.ir&fp=chrome&type=ws&sni=channel-imtproto.arezoni1.ir#🔥Join+Telegram:@Farah_VPN🟣
+vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://2198308e-361b-4c02-95b4-ccfd4a29b15b@ir4.reata1.ir:40004?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://8dcb7893-9191-4c71-b92a-4c3e52142030@vip.younetwork.ir:20900?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@15.224.0.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
