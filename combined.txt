@@ -179,6 +179,7 @@ vless://a91f5d59-ad73-4f16-a102-ab07abaef21e@188.114.98.0:2053?security=tls&type
 vless://a91f5d59-ad73-4f16-a102-ab07abaef21e@188.114.98.0:2082?security=none&type=ws&headerType=&path=%2F&host=DOFF.mehrsazi.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://a91f5d59-ad73-4f16-a102-ab07abaef21e@188.114.98.0:2053?security=tls&type=ws&headerType=&path=%2Flove&host=&sni=rfr.sodogodping.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
 vless://a91f5d59-ad73-4f16-a102-ab07abaef21e@188.114.98.0:2053?security=tls&type=ws&headerType=&path=%2Flove&host=&sni=JK.sodogodping.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🔥Join+Telegram:@Farah_VPN🟣
+vless://d75fb2d8-9d6d-4981-a3aa-7b4bee5d34f3@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mapircdn.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://9b4fd9d0-0508-4bcb-b60e-4275adb878bb@games.shabroo.com:6690?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🔥Join+Telegram:@Farah_VPN🟣
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.195:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
