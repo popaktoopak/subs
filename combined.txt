@@ -49,6 +49,8 @@ vless://18503122-cdd5-4f82-8f56-ec59bed214d7@ip.gorge.ir:8080?security=none&encr
 vless://7bed5d53@tworahyf043@tworahy4fa4@tworahyf20b@tworahy32e7d1f5a052@p@tworahy2@tworahy0@tworahy2@tworahyturk.turkabr.ir:39792?encryption=none&security=none&type=tcp&headerType=http&host=snapp.ir#🔥Join+Telegram:@Farah_VPN🟣
 vless://a49131a1-fbb1-4e7b-8d8b-7441cdf622b8@185.143.233.5:80?path=%2Fgraphql%3Fed%3D30&security=none&encryption=none&host=dulphin111-90331252af-viv.apps.ir-central1.arvancaas.ir&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://ad4fca4a-e4af-4501-ac42-8ac2e9be87b0@testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir:54268?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://2997ff07-edc5-40f9-8ee6-7b2aa5701d5f@str.lntunvip.com:1020?encryption=none&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://e67ceb89-26d2-4718-ac40-9e072eee39f9@freefamily.shop:8443?type=ws&encryption=none&path=%2Fws&host=cdn.freefamily.shop&security=none#🔥Join+Telegram:@Farah_VPN🟣
 vless://66926652-ad9b-4fbb-9b6c-f4985c82e425@connected5.starpo5.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#🔥Join+Telegram:@Farah_VPN🟣
