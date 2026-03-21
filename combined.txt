@@ -38,6 +38,9 @@ vless://b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c@45.15.125.8:8443/?type=tcp&encrypti
 vless://d6542ccc-aaea-f5ea-1baa-a64cb294db09@cloud.vpsino.com:63822?security=none&type=tcp&headerType=none&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://7c255ff2-946c-f50c-9413-20c78fb58116@cloud.vpsino.com:63822?security=none&type=tcp&headerType=none&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
 vless://51a89156-72f1-2d61-65a0-41293f47ebe4@cloud.vpsino.com:63822?security=none&type=tcp&headerType=none&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://a4d3209a-9b49-441a-974f-03ce00f5d05a@grdt.dtsantoor.com:40786?security=tls&encryption=none&insecure=0&host=skyroom.online&headerType=http&fp=firefox&type=tcp&allowInsecure=0&sni=grdt.dtsantoor.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://66d95d62-d264-4214-a9b5-b30361cb1cf9@omgspacir.clearpa66thdata.shop:19105?security=&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://66926652-ad9b-4fbb-9b6c-f4985c82e425@connected5.starpo5.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#🔥Join+Telegram:@Farah_VPN🟣
