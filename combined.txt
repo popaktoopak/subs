@@ -31,6 +31,7 @@ vless://9cfc8cab-2c26-468b-b7b7-269c631ed0d3@web.palmal.site:24776?security=none
 vless://e1111919-2a81-4847-a45c-68c7145a014d@193.151.135.92:15823?type=tcp&encryption=none&security=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-directvpn@51.45.15.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+vless://38ed4af4-0156-4ab3-b2da-d6a2a00abf8e@testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir:56758?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@45.148.101.124:443?mode=auto&path=%2Fillusion-finland&security=reality&encryption=none&pbk=wID5u27KRxoiyXEKClM7M3o_lAb9hITHZQsqJ2-Jknc&fp=chrome&allowinsecure=0&type=xhttp&sni=autotuojat.fi&sid=7a18cff76f11#🔥Join+Telegram:@Farah_VPN🟣
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@chatgpt.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?encryption=none&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=broad-sky-9360.k7uztejf9ief.workers.dev&path=%2F#🔥Join+Telegram:@Farah_VPN🟣
