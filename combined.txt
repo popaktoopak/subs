@@ -1,6 +1,11 @@
 vmess://ewogICJhZGQiOiAiZGwuc2FmdDg5LmlyIiwKICAiaG9zdCI6ICJkdWxwaGluMzMzLTkwMzMxMjUyYWYtdml2LmFwcHMuaXItY2VudHJhbDEuYXJ2YW5jYWFzLmlyIiwKICAiaWQiOiAiY2NkNDRiNjktMGQ3Ny00MzA1LTk1YWUtZGQzMDNmMjhhODAzIiwKICAibmV0IjogIndzIiwKICAicGF0aCI6ICIvZ3JhcGhxbD9lZD0zMCIsCiAgInBvcnQiOiA4MCwKICAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLAogICJpZCI6ICJjY2Q0NGI2OS0wZDc3LTQzMDUtOTVhZS1kZDMwM2YyOGE4MDMiLAogICJuZXQiOiAid3MiLAogICJwYXRoIjogIi9ncmFwaHFsP2VkPTMwIiwKICAicG9ydCI6IDgwLAogICJwcyI6ICLwn4ez8J+HsSDwk4+6IFNWIDMgLSBQYXJzdmlwMC1oZXZhc180LTM3OC44Nk1C8J+Tii0yOUQsMjNI4o+zIiwKICAic2N5IjogImF1dG8iLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@de2.b762plus.shop:2015?security=&encryption=none&host=zula.ir&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://9cde6dc4-d7af-4780-acaa-0ee36107c560@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://93badbcb-6495-4ed6-a3dc-7ac46d06de1c@de20.fastplus7.site:33937?security=none&allowInsecure=0&encryption=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
+vless://2a78b500-a49c-4e66-8735-4413dddad030@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://93badbcb-6495-4ed6-a3dc-7ac46d06de1c@de20.fastplus7.site:33937?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://042bcb1f-23dd-4ae9-9dc0-e301f89a5359@193.151.143.138:201?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://29884d7f-2d86-4842-8682-380cd361a86f@web.palmal.site:24776?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.128:443?allowInsecure=1&encryption=none&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.15:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?encryption=none&host=cnmfangbinxing.cnm-fang-binxing-nmsl-250.workers.dev&path=%2F&security=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
